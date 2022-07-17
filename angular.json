@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "material-harness": "apps/material-harness",
+    "material-harness-e2e": "apps/material-harness-e2e"
+  }
+}
