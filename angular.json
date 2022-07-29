@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "material-harness": "apps/material-harness",
-    "material-harness-e2e": "apps/material-harness-e2e"
+    "material-harness-e2e": "apps/material-harness-e2e",
+    "products": "libs/products"
   }
 }

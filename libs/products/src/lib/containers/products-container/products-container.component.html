@@ -1,0 +1,6 @@
+<lib-products-product
+  *ngFor="let product of allProducts$ | async"
+  [product]="product"
+  (clicked)="selectProduct(product.id)"
+>
+</lib-products-product>
